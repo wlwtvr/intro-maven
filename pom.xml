@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.wlwtvr.mvn-strctr</groupId>
 	<artifactId>mvn-strctr</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<properties>
@@ -138,6 +138,6 @@
 		<connection>scm:git:git@github.com:wlwtvr/intro-maven.git</connection>
 		<developerConnection>scm:git:git@github.com:wlwtvr/intro-maven.git</developerConnection>
 		<url>https://github.com/wlwtvr/intro-maven</url>
-	  <tag>mvn-strctr-1.0.0</tag>
+	  <tag>mvn-strctr-1.0.1</tag>
   </scm>
 </project>
