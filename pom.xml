@@ -122,8 +122,8 @@
 	</build>
 
 	<scm>
-		<connection>scm:git:https://github.com/wlwtvr/intro-maven.git</connection>
-		<developerConnection>scm:git:https://github.com/wlwtvr/intro-maven.git</developerConnection>
+		<connection>scm:git:git@github.com:wlwtvr/intro-maven.git</connection>
+		<developerConnection>scm:git:git@github.com:wlwtvr/intro-maven.git</developerConnection>
 		<url>https://github.com/wlwtvr/intro-maven</url>
 	  <tag>mvn-strctr-1.0.0</tag>
   </scm>
